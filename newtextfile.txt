@@ -1,1 +1,3 @@
 This is another test file.
+
+I just created a new branch. I then changed this. I added this line.
